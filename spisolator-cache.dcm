@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 25LXX
+D SPI flash chip 25Lxx
+K SPI
+$ENDCMP
+#
+#End Doc Library
