@@ -1,4 +1,4 @@
-= spisolator2
+# spisolator2
 
 A pcb to switch the SPI flashchip between a flasher and a mainboard.
 
